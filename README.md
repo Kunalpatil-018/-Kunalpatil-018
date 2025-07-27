@@ -8,5 +8,5 @@
 🔧 Tools: ESP32, Firebase, Python, Arduino, Azure, Git  
 🌱 Currently working on smart cloud-based alert systems  
 
-📫 How to reach me: kunal01kpatil@gmail.com  
+📫 How to reach me: kunal018patil@gmail.com  
 📍 Pune, Maharashtra
